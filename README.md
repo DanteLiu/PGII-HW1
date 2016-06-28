@@ -1,2 +1,2 @@
 # PGII-HW1
-This repostry was used to test PGII homework1 uploading to github.
+This repository was used to uploading PGII homework1 to github for testing.
